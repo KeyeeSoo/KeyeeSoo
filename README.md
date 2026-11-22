@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Ke Yee
 
-<!--
-**KeyeeSoo/KeyeeSoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C++ & C Programming · OpenGL Graphics · Game Engine Development**
 
-Here are some ideas to get you started:
+[Portfolio](https://keyeesoo.github.io/) · [LinkedIn](https://www.linkedin.com/in/soo-ke-yee)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I’m a Year 3 Real-Time Interactive Simulation student at the Singapore
+Institute of Technology. I’m interested in software development and graphics
+programming, especially real-time rendering and simulation.
+
+## Selected projects
+
+| Project | What I worked on |
+| --- | --- |
+| Custom Game Engine | Built and debugged C++ and OpenGL rendering components on a two-person graphics team. |
+| OpenGL Shader Effects | Built shader demos to explore how different rendering techniques change the final image. |
+| Shuttle Operator Training Simulator | Worked on the Unity city view, including rendering roads and lane markings from map data. |
+| Networked Cooking Game | Implemented gameplay in C and tested client–server connections across two laptops. |
+
+**Open to software development and graphics programming internships in Singapore.**
