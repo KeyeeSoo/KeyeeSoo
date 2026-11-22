@@ -2,7 +2,7 @@
 
 **C++ & C Programming · OpenGL Graphics · Game Engine Development**
 
-[Portfolio](keyeesoo.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/soo-ke-yee)
+[Portfolio](https://keyeesoo.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/soo-ke-yee)
 
 ## About me
 
