@@ -22,7 +22,8 @@ A team-built simulator that lets operators practise monitoring an autonomous shu
 
 This project resizes images by removing connected paths of pixels. I implemented the greedy seam finder, which selects the next pixel one row at a time, and compared its performance with dynamic programming. In one benchmark, greedy reduced total resize time by **54.5%**. In a separate test on a 200 × 200 image, dynamic programming found a seam with **58.4% lower energy**, showing the trade-off between speed and seam quality.
 
-<img src="./GingerbreadCurse.png" alt="Unity city view showing white lane markings and a concrete road divider." width="560">
+<img src="./GingerbreadCurse.png" alt="Gameplay screenshot from The Gingerbread Curse" width="560">
+
 ### [The Gingerbread Curse · Networked Potion-Making Game](https://github.com/KeyeeSoo/Low-Level-Programming)
 
 **C · Cyclone DDS · Client–server networking**
