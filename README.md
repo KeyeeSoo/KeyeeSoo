@@ -31,7 +31,6 @@ A team-built simulator that lets operators practise monitoring an autonomous shu
 
 <p>
   <img src="./assets/badges/python.png" alt="Python" width="64" height="26">
-  <img src="./assets/badges/numpy.png" alt="NumPy" width="64" height="26">
   <img src="./assets/badges/algorithms.png" alt="Algorithms" width="86" height="26">
   <img src="./assets/badges/benchmarking.png" alt="Performance benchmarking" width="181" height="26">
 </p>
@@ -44,11 +43,12 @@ This project resizes images by removing connected paths of pixels. I implemented
 
 <p>
   <img src="./assets/badges/c.png" alt="C" width="31" height="26">
-  <img src="./assets/badges/cyclone-dds.png" alt="Cyclone DDS" width="96" height="26">
-  <img src="./assets/badges/networking.png" alt="Client–server networking" width="166" height="26">
+  <img src="./assets/badges/networking.png" alt="Client-server networking" width="166" height="26">
 </p>
 
-A two-player potion-making game where players trace dotted shapes against a timer to collect ingredients and complete randomly selected recipes. I implemented tracing, timers, ingredient handling, and recipe progression in C, and contributed to rendering and performance improvements. I also debugged and tested client–server connectivity across two laptops over Wi-Fi with Windows Defender Firewall enabled.
+A two-player potion-making game where players trace dotted shapes against a timer to collect ingredients and complete randomly selected recipes. I implemented tracing, timers, ingredient handling, and recipe progression in C, and contributed to rendering and performance improvements. I also debugged and tested client-server connectivity across two laptops over Wi-Fi with Windows Defender Firewall enabled.
+
+<img src="./assets/GingerbreadCurse.png" alt="Image showing in-game gameplay." width="560">
 
 <img src="./assets/divider.png" alt="" width="100%">
 
