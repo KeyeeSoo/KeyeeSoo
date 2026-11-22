@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Soo Ke Yee — Software Engineering and Real-Time Graphics" width="100%">
+  <img src="./banner.gif" alt="Soo Ke Yee — Software Engineering and Real-Time Graphics" width="100%">
 </p>
 
 I’m a Year 3 Real-Time Interactive Simulation student at the Singapore Institute of Technology. I work in **C++ and C**, with projects in **OpenGL rendering, 3D simulation, and client–server networking**. I’m open to **software development and graphics programming internships in Singapore**.
@@ -14,7 +14,7 @@ I’m a Year 3 Real-Time Interactive Simulation student at the Singapore Institu
 
 A simulator that lets operators practise monitoring an autonomous shuttle fleet and responding to simulated traffic incidents. I work on the Unity city view that turns map data into visible roads, lane markings, dividers, and bus stops. I also worked on highlighting affected road segments when a simulated incident appears in the operator interface.
 
-<img src="./assets/formula-9.png" alt="Unity city view showing white lane markings and a concrete road divider topped with a green fence." width="560">
+<img src="./formula-9.png" alt="Unity city view showing white lane markings and a concrete road divider topped with a green fence." width="560">
 
 ### Custom Game Engine
 
@@ -30,7 +30,7 @@ A custom engine built by a seven-person team to learn how rendering, engine syst
 
 A collection of real-time graphics demos covering lighting, procedural patterns, and multi-pass rendering. I used GLSL to create discrete colour bands for cartoon shading and repeating cutouts driven by surface coordinates. Other demos use fragment shaders to render a miniature solar system and off-screen framebuffers to combine effects like blur and edge detection. The WebGL viewer showcases eight selected demos from the desktop project.
 
-<img src="./assets/shader-solar-system.png" alt="Fragment shader rendering Earth and the Moon lit by the Sun." width="47%"> <img src="./assets/shader-lighting.png" alt="Blinn–Phong lighting demo with an orange teapot and geometric shapes around a blue plane." width="47%">
+<img src="./shader-solar-system.png" alt="Fragment shader rendering Earth and the Moon lit by the Sun." width="47%"> <img src="./shader-lighting.png" alt="Blinn–Phong lighting demo with an orange teapot and geometric shapes around a blue plane." width="47%">
 
 <!-- Verify your deployed Pages address, then add the link here:
 [Launch the shader viewer in your browser](https://keyeesoo.github.io/graphics-viewer/index.html)
