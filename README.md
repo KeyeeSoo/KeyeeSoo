@@ -8,38 +8,27 @@ I’m a Year 3 Real-Time Interactive Simulation student at the Singapore Institu
 
 ## Selected projects
 
-### Formula 9 · Autonomous Shuttle Fleet Training Simulator
+### [Formula 9 · Autonomous Shuttle Fleet Training Simulator](https://github.com/axewhy-xy/Formula9)
 
 **Unity · C# · Map-based visualisation**
 
-A simulator that lets operators practise monitoring an autonomous shuttle fleet and responding to simulated traffic incidents. I work on the Unity city view that turns map data into visible roads, lane markings, dividers, and bus stops. I also worked on highlighting affected road segments when a simulated incident appears in the operator interface.
+A team-built simulator that lets operators practise monitoring an autonomous shuttle fleet and responding to traffic incidents. I work on the Unity city view, using map data to render roads, lane markings, dividers, and bus stops. I also worked on highlighting affected road segments when a simulated incident appears in the operator interface.
 
-<img src="./formula-9.png" alt="Unity city view showing white lane markings and a concrete road divider topped with a green fence." width="560">
+<img src="./assets/formula-9.png" alt="Unity city view showing white lane markings and a concrete road divider." width="560">
 
-### Custom Game Engine
+### [Seam Carving · Content-Aware Image Resizing](https://github.com/R15hika/seam-carving)
 
-**C++ · OpenGL · GLSL · CMake**
+**Python · NumPy · Algorithms · Performance benchmarking**
 
-A custom engine built by a seven-person team to learn how rendering, engine systems, and development tools work together. On the two-person graphics team, I worked on sprite rendering, instancing, and text rendering, and helped integrate graphics with other engine systems. I also used CMake to configure builds and troubleshoot issues while adding libraries and plugins.
+This project resizes images by removing connected paths of pixels. I implemented the greedy seam finder, which selects the next pixel one row at a time, and compared its performance with dynamic programming. In one benchmark, greedy reduced total resize time by **54.5%**. In a separate test on a 200 × 200 image, dynamic programming found a seam with **58.4% lower energy**, showing the trade-off between speed and seam quality.
 
-<!-- Project preview: add a screenshot at assets/game-engine.png, then insert it here. -->
-
-### OpenGL Shader Effects
-
-**C++ · OpenGL · GLSL · WebGL**
-
-A collection of real-time graphics demos covering lighting, procedural patterns, and multi-pass rendering. I used GLSL to create discrete colour bands for cartoon shading and repeating cutouts driven by surface coordinates. Other demos use fragment shaders to render a miniature solar system and off-screen framebuffers to combine effects like blur and edge detection. The WebGL viewer showcases eight selected demos from the desktop project.
-
-<img src="./shader-solar-system.png" alt="Fragment shader rendering Earth and the Moon lit by the Sun." width="47%"> <img src="./shader-lighting.png" alt="Blinn–Phong lighting demo with an orange teapot and geometric shapes around a blue plane." width="47%">
-
-<!-- Verify your deployed Pages address, then add the link here:
-[Launch the shader viewer in your browser](https://keyeesoo.github.io/graphics-viewer/index.html)
--->
-
-### The Gingerbread Curse
+### [The Gingerbread Curse · Networked Potion-Making Game](https://github.com/KeyeeSoo/Low-Level-Programming)
 
 **C · Cyclone DDS · Client–server networking**
 
-A two-player cooking game where players trace dotted shapes against a timer to collect ingredients and complete randomly selected recipes. I implemented the tracing, timers, ingredient handling, and recipe progression in C, and contributed to rendering and performance improvements. I also tested client–server connectivity across two laptops over Wi-Fi with Windows Defender Firewall enabled.
+A two-player potion-making game where players trace dotted shapes against a timer to collect ingredients and complete randomly selected recipes. I implemented tracing, timers, ingredient handling, and recipe progression in C, and contributed to rendering and performance improvements. I also debugged and tested client–server connectivity across two laptops over Wi-Fi with Windows Defender Firewall enabled.
 
-<!-- Project preview: add a screenshot at assets/gingerbread-curse.png, then insert it here. -->
+### [Pathfinding in a Randomly Generated Environment](https://github.com/woonning-ng/3183-final)
+**C# · Game AI · Pathfinding**
+
+A team project that explored how game characters navigate randomly generated environments. I implemented the pathfinding logic, so characters could find routes through each new layout as it was generated randomly.
