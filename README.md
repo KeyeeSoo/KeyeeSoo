@@ -9,7 +9,7 @@ I’m a Year 3 Real-Time Interactive Simulation student at the Singapore Institu
   <a href="https://www.linkedin.com/in/soo-ke-yee"><img src="./assets/badges/linkedin.png" alt="LinkedIn" width="118" height="38"></a>
 </p>
 
-<img src="./assets/divider.png" alt="" width="100%">
+
 
 ## Selected projects
 
@@ -25,7 +25,7 @@ A team-built simulator that lets operators practise monitoring an autonomous shu
 
 <img src="./assets/formula-9.png" alt="Unity city view showing white lane markings and a concrete road divider." width="560">
 
-<img src="./assets/divider.png" alt="" width="100%">
+
 
 ### [Seam Carving · Content-Aware Image Resizing](https://github.com/R15hika/seam-carving)
 
@@ -35,9 +35,9 @@ A team-built simulator that lets operators practise monitoring an autonomous shu
   <img src="./assets/badges/benchmarking.png" alt="Performance benchmarking" width="181" height="26">
 </p>
 
-This project resizes images by removing connected paths of pixels. I implemented the greedy seam finder, which selects the next pixel one row at a time, and compared it with dynamic programming. In one benchmark, the greedy approach reduced total resize time by **54.5%**. In a separate test on a **200 × 200** image, dynamic programming found a seam with **58.4% lower energy**.
+This project resizes images by removing connected paths of pixels. I implemented the greedy seam finder, which selects the next pixel one row at a time, and compared it with dynamic programming. In one benchmark, the greedy approach reduced total resize time by **54.5%**. In a separate test on a **200 x 200** image, dynamic programming found a seam with **58.4% lower energy**.
 
-<img src="./assets/divider.png" alt="" width="100%">
+
 
 ### [The Gingerbread Curse · Networked Potion-Making Game](https://github.com/KeyeeSoo/Low-Level-Programming)
 
@@ -50,7 +50,7 @@ A two-player potion-making game where players trace dotted shapes against a time
 
 <img src="./assets/GingerbreadCurse.png" alt="Image showing in-game gameplay." width="560">
 
-<img src="./assets/divider.png" alt="" width="100%">
+
 
 ### [Game AI · Pathfinding in Randomly Generated Environments](https://github.com/woonning-ng/3183-final)
 
