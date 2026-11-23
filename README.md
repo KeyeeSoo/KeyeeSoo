@@ -5,7 +5,7 @@
 I’m a Year 3 Real-Time Interactive Simulation student at the Singapore Institute of Technology. I work in **C++ and C**, with projects in **OpenGL rendering, 3D simulation, and client–server networking**. I’m open to **software development and graphics programming internships in Singapore**.
 
 <p>
-  <a href="https://keyeesoo.github.io/"><img src="./assets/badges/portfolio.png" alt="Portfolio" width="119" height="38"></a>
+  <a href="https://keyeesoo.github.io/Portfolio"><img src="./assets/badges/portfolio.png" alt="Portfolio" width="119" height="38"></a>
   <a href="https://www.linkedin.com/in/soo-ke-yee"><img src="./assets/badges/linkedin.png" alt="LinkedIn" width="118" height="38"></a>
 </p>
 
